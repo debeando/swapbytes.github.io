@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí
-permalink: /about/
+permalink: /about.html
 ---
 
 Soy un apasionado por las bases de datos, linux y la programación, y me gusta mesclar todo esto para buscar la armonía. Solo trabajo con Linux, mi favorito es CentOS y luego Debian. Desde hace mucho uso Amazon Web Services (AWS) y como me encanta tener toda la infrastructura codificada y versionada, uso Terraform y Puppet o Ansible. MySQL es mi base de datos favorita, y tambien todos los Fork's como MariaDB y Percona, luego está PostgreSQL. El SQL me parece el mejor lenguaje que existe para comunicarme con las base de datos y manipularlos, me encanta poder ayudar a los Desarrolladores y cualquier variante de los Analistas de datos, optimizar consultas es un reto muy interesante y que requiere ser muy meticuloso, y sin dejar de ayudar a Customer Service para resolver todos los casos complejos que el Backend y otras piezas no pueden. Los datos es el tesoro bruto más preciado de una empresa y de los usuarios, por eso, siempre pienso en la Alta Disponibilidad y la Seguridad, me apoyo mucho con ProxySQL y Orchestrator. Con todo esto, no puedo dejar pasar la monitorización, es algo muy importante e imprescindible, es la única forma de conocer los signos vitales y su comportamiento para detectar problemas que no son visibles a simple vista, de esta forma puedo reconocer síntomas, buscar y demostrar la solución más óptima.

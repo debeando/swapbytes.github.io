@@ -3,3 +3,4 @@ highlighter: rouge
 url: http://swapbytes.com
 lsi: false
 exclude: [CNAME, .gitignore, Gemfile, Gemfile.lock]
+incremental: true
