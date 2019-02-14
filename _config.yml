@@ -1,5 +1,5 @@
 # General Jekyll Config
 highlighter: rouge
-url: http://swapbyt3s.com
+url: http://swapbytes.com
 lsi: false
 exclude: [CNAME, .gitignore, Gemfile, Gemfile.lock]
