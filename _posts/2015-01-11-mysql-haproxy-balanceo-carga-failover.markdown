@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MySQL y HAProxy es una Arquitectura de Balanceo de Carga & Failover"
+title:  "MySQL Balanceo de Carga & Failover con HAProxy"
 date:   2015-01-11
 categories: MySQL
 ---
@@ -11,7 +11,7 @@ Los Slaves se usan para las lecturas, todo el tráfico que es de disposición **
 
 Como podemos imaginar, usar Slaves no son muy seguros, de vez en cuando se rompe por una serie de motivos, o necesitamos hacer mantenimiento y no debemos detener el servicio, entonces creamos una arquitectura tolerante a fallos como se muestra en la siguiente imagen:
 
-![MySQL Arquitectura Failover]({{ "assets/mysql_master_slave_failover.png" | absolute_url }})
+![MySQL Arquitectura]({{ "assets/mysql_master_slave_failover.png" | absolute_url }})
 
 Podemos observar que todo lo que está susceptible a fallos está duplicado. Hago una breve descripción de cada elemento que interviene en el diagrama:
 
