@@ -4,3 +4,4 @@ url: http://swapbytes.com
 lsi: false
 exclude: [CNAME, .gitignore, Gemfile, Gemfile.lock]
 incremental: true
+google_analytics_key: UA-17220206-1
